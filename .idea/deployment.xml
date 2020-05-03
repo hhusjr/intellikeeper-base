@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="pi@5gzvip.idcfengye.com:10010">
+    <serverData>
+      <paths name="pi@5gzvip.idcfengye.com:10010">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/intellikeeper-base" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
