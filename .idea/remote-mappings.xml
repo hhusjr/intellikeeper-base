@@ -6,7 +6,7 @@
         <remote-mappings server-id="python@sftp://pi@5gzvip.idcfengye.com:10010/usr/bin/python3">
           <settings>
             <list>
-              <mapping local-root="$PROJECT_DIR$" remote-root="/tmp/intellikeeper-base" />
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/pi/tmp/intellikeeper-base" />
             </list>
           </settings>
         </remote-mappings>
